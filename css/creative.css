@@ -146,8 +146,8 @@ header.masthead {
   width: 100%;
   min-height: auto;
   text-align: center;
-  color: white;
-  background-image: url("../img/header.jpg");
+  color: gray ;
+  background-image: none;
   background-position: center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -192,7 +192,8 @@ header.masthead {
             font-size: 18px;
             max-width: 80%;
             margin-right: auto;
-            margin-left: auto; } }
+            margin-left: auto; } 
+
 
 .service-box {
   max-width: 400px;
